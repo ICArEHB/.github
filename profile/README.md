@@ -10,7 +10,7 @@ The Interdisciplinary Center for Archaeology and the Evolution of Human Behaviou
 
 This repository includes:
 
-- [:file\_folder: paper]**[Repositories](#repositories)**: Access our diverse range of research projects and datasets.
+- [:file\_folder: paper](#repositories)**: Access our diverse range of research projects and datasets.
 - **[Policies](#policies)**: Our guidelines and principles for conducting and sharing research.
 - **[Guidelines](#guidelines)**: Best practices and standards for open science in our research.
 - **[Workflows](#workflows)**: Detailed descriptions of our research processes and protocols.
