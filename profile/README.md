@@ -1,4 +1,4 @@
-# ICArEHB Open Science Repository
+# ICArEHB Open Science
 
 Welcome to the ICArEHB Open Science repository! This repository serves as the central hub for all open science activities at the Interdisciplinary Center for Archaeology and Evolution of Human Behaviour (ICArEHB). Our researchers are acutely aware of the ethical, professional, and scientific implications of being stewards of the past. As part of this effort, we embrace the concept of Open Science where research is made transparent and reproducible at every step. 
 
