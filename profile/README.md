@@ -17,7 +17,7 @@ The Interdisciplinary Center for Archaeology and the Evolution of Human Behaviou
 This institutional Github includes repositories for:
 
 - **[:file\_folder: Policies](#policies)**: Our principles for conducting and sharing research.
-- **[:file\_folder: Guidelines](#guidelines)**: Best practices and standards for open science in our research.
+- **[:file\_folder: Wiki](https://github.com/ICArEHB/open-science-wiki)**: Best practices and standards for open science in our research.
 - **[:file\_folder: Workflows](#workflows)**: Detailed descriptions of some of the research processes and protocols.
 
 
