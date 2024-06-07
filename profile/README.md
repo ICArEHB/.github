@@ -57,16 +57,6 @@ For a more extensive explanation on how to contribute, please see [How to contri
 1. `fork` this repository to your own Github account by clicking the button on the upper right of this screen
 2. Create a new branch in your forked repository which you will use to make changes in (your master branch will remain "clean" this way)
 3. `clone` your forked repository to your local PC. If you do not how to do this, check out the Github section of the wiki!
-4. Follow the installation steps for mkdocs [here](https://www.mkdocs.org/#installation)
-5. On your local PC, navigate to your newly made branch and make changes in the relevant files
-6. Write a `commit` message for every change you made
-7. In your prompt, navigate to your repository directory with `cd C:/users/username/your/repo/directory` and run `mkdocs build` (if you want to preview the website locally, run `mkdocs serve` and in your browser, go to the http that is displayed, http://127.0.0.1:8000/)
-8. If everything goes correctly, you can also open the new .html files in the `eur-synclab.github.io/site` folder to see what your changes will look like online
-9. Push the changes to your remote (i.e., the repository on your Github account)
-10. Make a pull request to merge your branch with the `eur-synclab/eur-synclab.github.io master` branch
-11. Those who can directly edit this repository will then review your pull request and merge it with the `master` branch
-12. Those who can directly edit this repository then have to locally navigate to `eur-synclab.github.io master` and then run `mkdocs gh-deploy`. This pushes the html pages to the `gh-pages` branch of this repository
-13. Your changes are now visible on the [website](eur-synclab.github.io)!
 
 ## Contact
 
