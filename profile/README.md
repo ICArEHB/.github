@@ -10,17 +10,9 @@ The Interdisciplinary Center for Archaeology and the Evolution of Human Behaviou
 
 This repository includes:
 
-- **[Repositories](#repositories)**: Access our diverse range of research projects and datasets.
 - **[Policies](#policies)**: Our guidelines and principles for conducting and sharing research.
 - **[Guidelines](#guidelines)**: Best practices and standards for open science in our research.
 - **[Workflows](#workflows)**: Detailed descriptions of our research processes and protocols.
-
-### Repositories
-
-Explore our repositories for detailed research data, scripts, and tools:
-- **[Project A](link-to-project-a)**: Description of Project A.
-- **[Project B](link-to-project-b)**: Description of Project B.
-- **[Project C](link-to-project-c)**: Description of Project C.
 
 ### Policies
 
@@ -49,4 +41,4 @@ We welcome contributions to our open science repository. Please read our [contri
 
 ## Contact
 
-For questions or more information about ICArEHB and our open science initiatives, please contact us at [email@icarehb.uca](mailto:email@icarehb.uca).
+For questions or more information about ICArEHB and our open science initiatives, please contact us at [icarehb@ualg.pt](mailto:icarehb@ualg.pt).
